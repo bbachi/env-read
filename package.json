@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/bbachi/env-read/issues"
    },
-  "homepage":"https://github.com/bbachi/env-read/blob/master/README.md",
+  "homepage":"https://github.com/bbachi/env-read#readme",
   "dependencies": {
     "path": "^0.12.7"
   },
