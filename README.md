@@ -29,7 +29,7 @@ Utility module to read environment varibales at runtime.
     
     *fileLocation is the property in the json file.*
     
-    4) when running or builidng the project, environment should be passed as below. so that environment varibales should be read accordingly.
+   4.  when running or builidng the project, environment should be passed as below. so that environment varibales should be read accordingly.
     
    ```
     npm start --local  // for local environment
