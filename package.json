@@ -14,6 +14,7 @@
    },
   "author": "Bhargav Bachina",
   "license": "ISC",
+  "keywords":["env","read","environment","variables","runtime"],
   "bugs": {
     "url": "https://github.com/bbachi/env-read/issues"
    },
